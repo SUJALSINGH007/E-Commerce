@@ -11,7 +11,7 @@ const CartContents = () => {
       price: 1500,
       image: "https://picsum.photos/200?random=1"
     },
-      {
+    {
       productId: 2,
       name: "shirt",
       size: "S",
@@ -19,6 +19,42 @@ const CartContents = () => {
       quantity: 1,
       price: 1200,
       image: "https://picsum.photos/200?random=2"
+    },
+    {
+      productId: 3,
+      name: "pant",
+      size: "S",
+      colour: "Blue",
+      quantity: 1,
+      price: 8999,
+      image: "https://picsum.photos/200?random=8"
+    },
+    {
+      productId: 2,
+      name: "shirt",
+      size: "S",
+      colour: "Blue",
+      quantity: 1,
+      price: 1200,
+      image: "https://picsum.photos/200?random=11"
+    },
+    {
+      productId: 2,
+      name: "shirt",
+      size: "S",
+      colour: "Blue",
+      quantity: 1,
+      price: 1200,
+      image: "https://picsum.photos/200?random=5"
+    },
+    {
+      productId: 2,
+      name: "shirt",
+      size: "S",
+      colour: "Blue",
+      quantity: 1,
+      price: 1200,
+      image: "https://picsum.photos/200?random=20"
     },
   ]
   return(
